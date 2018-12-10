@@ -1,0 +1,39 @@
+#snare {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://bit.ly/2QOp930);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+}
+
+#bass {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://bit.ly/2SywWzg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    position: absolute;
+    top: 58%;
+    left: 43%;
+}
+
+#hihat {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://bit.ly/2zQNw6s);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    position: absolute;
+    top: 45%;
+    left: 39%;
+}
+
+img {
+    width: 100%;
+}
